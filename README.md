@@ -24,8 +24,6 @@
 
 <code><img alt="React" src="https://img.icons8.com/officexs/48/000000/react.png"/></code>
 <code><img height="48" alt="Next.js" src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png"/></code>
-
-
 <code><img height="48" alt="Styled Components" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png"/></code>
 
 
