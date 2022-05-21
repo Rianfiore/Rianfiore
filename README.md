@@ -1,7 +1,16 @@
 <div id="header" align="center">
   
-  <div align="center">
-  <h3 align="center">🧠My Knowledges:</h3>
+<h1 align="center">Hi , I'm Rian Fiore <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full%20Stack%20Developer;UX/UI+Designer;React+Dev;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
+</div>      
+      <h2 align="center">⚡ Recent GitHub Activity</h2>
+   <a href="https://github.com/rianfiore"><img alt="Rianfore's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rianfiore&custom_title=Rianfiore's%20Contribution%20Graph&theme=dracula" /></a>
+    <br>
+    <br>
+    
+  <h2 align="center">🧠 My Knowledges:</h2>
 
 <code><img alt="Javascript" src="https://img.icons8.com/color/48/000000/javascript.png"/></code>
 <code><img alt="HTML5" src="https://img.icons8.com/color/48/000000/html-5.png"/></code>
@@ -18,8 +27,8 @@
 <code><img height="48" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub"/></code>
 <code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
 </div>
-  
-<h3 align="center">🏆Trophies:</h3>
+  <br>
+<h2 align="center">🏆 Trophies:</h2>
 <p align="center">
   <a href="https://github.com/rianfiore">
     <img
@@ -30,32 +39,37 @@
 </a>
 </p>
 </div>
+  <br>
 <br>
 
 <div align="center">
-    <h3>🔥 Streak Stats</h3>
+    <h2>🔥 Streak Stats</h2>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rianfiore&theme=dracula" alt="rianfiore" /></p>
+    <br>
+    <br>
   
-  <h3 align="center">🖥Languages & GitHub:</h3>
+  <h2 align="center">🖥Languages & GitHub:</h2>
 <p align="center">
-  <a href="https://github.com/rianfiore">
+   <a href="https://github.com/rianfiore">
     <img
       align="center"
       height="150em"
-      src="https://github-readme-stats.vercel.app/api?username=rianfiore&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianfiore&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dracula"
     />
   </a><br>
   <a href="https://github.com/rianfiore">
     <img
       align="center"
       height="150em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianfiore&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dracula"
+      src="https://github-readme-stats.vercel.app/api?username=rianfiore&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"
     />
   </a>
 </p>
 </div>
+  <br>
+    <br>
 
-<h3 align="center">🛠Work at:</h3>
+<h2 align="center">🛠Work at:</h2>
 
 <p align="center">
   <a href="https://github.com/Rianfiore/starwars">
@@ -66,6 +80,3 @@
     </img>
   </a>
 </p>
-
-<div align="center">
-</div>
