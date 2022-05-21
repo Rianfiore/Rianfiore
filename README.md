@@ -35,7 +35,8 @@
 <code><img height="48" src="https://growiz.com.br/wp-content/uploads/2020/08/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png" alt="C#"/></code>
 
 **UX/UI**
-<code><img height="48" src="[https://w7.pngwing.com/pngs/431/965/png-transparent-figma-designer-computer-icons-material-design-design-rectangle-poster-logo.png](https://cdn2.downdetector.com/static/uploads/logo/figma2.png)" alt="Figma"/></code>
+
+<code><img height="48" src="https://cdn2.downdetector.com/static/uploads/logo/figma2.png" alt="Figma"/></code>
 <code><img height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/788px-Adobe_XD_CC_icon.svg.png" alt="Adobe XD"/></code>
 
 **DevOps**
