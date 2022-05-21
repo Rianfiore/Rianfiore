@@ -1,9 +1,7 @@
 <div id="header" align="center">
-
-</div>
-
-<div align="center">
-  <h3 align="center">My Knowledges:</h3>
+  
+  <div align="center">
+  <h3 align="center">🧠My Knowledges:</h3>
 
 <code><img alt="Javascript" src="https://img.icons8.com/color/48/000000/javascript.png"/></code>
 <code><img alt="HTML5" src="https://img.icons8.com/color/48/000000/html-5.png"/></code>
@@ -20,46 +18,51 @@
 <code><img height="48" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub"/></code>
 <code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
 </div>
+  
+<h3 align="center">🏆Trophies:</h3>
+<p align="center">
+  <a href="https://github.com/rianfiore">
+    <img
+      align="center"
+      src="https://github-profile-trophy.vercel.app/?username=rianfiore&theme=dracula&no-frame=true&row=1&&margin-w=20&no-bg=true"
+    />
+  </a>
+</a>
+</p>
+</div>
+<br>
 
 <div align="center">
-  <h3 align="center">Stats:</h3>
+    <h3>🔥 Streak Stats</h3>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rianfiore&theme=dracula" alt="rianfiore" /></p>
+  
+  <h3 align="center">🖥Languages & GitHub:</h3>
 <p align="center">
   <a href="https://github.com/rianfiore">
     <img
       align="center"
       height="150em"
-      src="https://github-readme-stats.vercel.app/api?username=rianfiore&show_icons=true&include_all_commits=true&count_private=true&theme=dark"
+      src="https://github-readme-stats.vercel.app/api?username=rianfiore&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"
     />
-  </a>
+  </a><br>
   <a href="https://github.com/rianfiore">
     <img
       align="center"
       height="150em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianfiore&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianfiore&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dracula"
     />
   </a>
 </p>
 </div>
 
-<h3 align="center">Trophies:</h3>
-<p align="center">
-  <a href="https://github.com/rianfiore">
-    <img
-      align="center"
-      src="https://github-profile-trophy.vercel.app/?username=rianfiore&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"
-    />
-  </a>
-</a>
-</p>
-
-<h3 align="center">Work at:</h3>
+<h3 align="center">🛠Work at:</h3>
 
 <p align="center">
   <a href="https://github.com/Rianfiore/starwars">
     <img
       align="center"
       height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=rianfiore&repo=starwars&theme=dark">
+      src="https://github-readme-stats.vercel.app/api/pin/?username=rianfiore&repo=starwars&theme=dracula">
     </img>
   </a>
 </p>
