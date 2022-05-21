@@ -48,7 +48,3 @@
 
 <code><img height="48" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion"/></code>
 
-**Currently Learning**
-
-<code><img height="48" src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java"/></code>
-
