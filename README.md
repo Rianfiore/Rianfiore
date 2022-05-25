@@ -1,17 +1,10 @@
 <div id="header" align="center">
   
 <h1 align="center">Hi , I'm Rian Fiore <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;UX/UI+Designer;React+Dev;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-</p>
-</div>      
-      <h2 align="center">⚡ Recent GitHub Activity</h2>
-   <a href="https://github.com/rianfiore"><img alt="Rianfore's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rianfiore&custom_title=Rianfiore's%20Contribution%20Graph&theme=dracula" /></a>
-    <br>
-    <br>
+</div>
     
   <h2 align="center">🧠 My Knowledges:</h2>
-
+<div align="center">
 <code><img alt="Javascript" src="https://img.icons8.com/color/48/000000/javascript.png"/></code>
 <code><img alt="HTML5" src="https://img.icons8.com/color/48/000000/html-5.png"/></code>
 <code><img alt="CSS3" src="https://img.icons8.com/color/48/000000/css3.png"/></code>
