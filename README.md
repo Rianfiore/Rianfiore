@@ -3,7 +3,7 @@
 <h1 align="center">Hi , I'm Rian Fiore <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 </div>
 
-      <h2 align="center">Recent GitHub Activity ⚡</h2>
+<h2 align="center">Recent GitHub Activity ⚡</h2>
    <a href="https://github.com/littlegudy"><img alt="Rianfiore's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rianfiore&custom_title=Rian's%20Contribution%20Graph&theme=dracula" /></a>
     <br>
     <br>
