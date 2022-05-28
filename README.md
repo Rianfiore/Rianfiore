@@ -8,7 +8,7 @@
     <br>
     <br>
     
-  <h2 align="center">🧠 My Knowledges:</h2>
+  <h2 align="center">My Knowledges 🧠</h2>
 <div align="center">
 <code><img alt="Javascript" src="https://img.icons8.com/color/48/000000/javascript.png"/></code>
 <code><img alt="HTML5" src="https://img.icons8.com/color/48/000000/html-5.png"/></code>
@@ -26,7 +26,7 @@
 <code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
 </div>
   <br>
-<h2 align="center">🏆 Trophies:</h2>
+<h2 align="center">Trophies 🏆</h2>
 <p align="center">
   <a href="https://github.com/rianfiore">
     <img
@@ -41,12 +41,12 @@
 <br>
 
 <div align="center">
-    <h2>🔥 Streak Stats</h2>
+    <h2>Streak Stats 🔥</h2>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rianfiore&theme=dracula" alt="rianfiore" /></p>
     <br>
     <br>
   
-  <h2 align="center">🖥Languages & GitHub:</h2>
+  <h2 align="center">Languages & GitHub 🖥</h2>
 <p align="center">
    <a href="https://github.com/rianfiore">
     <img
