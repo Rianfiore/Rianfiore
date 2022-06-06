@@ -70,7 +70,7 @@
 <h2 align="center">🛠Work at:</h2>
 
 <p align="center">
-  <a href="https://github.com/Rianfiore/starwars">
+  <a href="https://github.com/Rianfiore/netflix-clone">
     <img
       align="center"
       height="120em"
