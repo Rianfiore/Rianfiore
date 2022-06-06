@@ -74,7 +74,7 @@
     <img
       align="center"
       height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=rianfiore&repo=starwars&theme=dracula">
+      src="https://github-readme-stats.vercel.app/api/pin/?username=rianfiore&repo=netflix-clone&theme=dracula">
     </img>
   </a>
 </p>
