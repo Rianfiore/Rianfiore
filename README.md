@@ -16,10 +16,14 @@
 <code><img alt="Bootstrap" height="48" src="https://img.icons8.com/color/48/000000/bootstrap.png"/></code>
 <code><img alt="Material UI" src="https://img.icons8.com/color/48/000000/material-ui.png"/></code>
 <code><img alt="React" src="https://img.icons8.com/officexs/48/000000/react.png"/></code>
+<code><img height="48" alt="TypeScript" src="https://icons-for-free.com/download-icon-typescript+plain-1324760574122087083_256.ico"/></code>
 <code><img height="48" alt="Next.js" src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png"/></code>
 <code><img height="48" alt="Styled Components" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png"/></code>
+<code><img height="48" alt="SASS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/640px-Sass_Logo_Color.svg.png"/></code>
+<code><img height="48" alt="Storybook" src="https://avatars.githubusercontent.com/u/22632046?s=200&v=4"/></code>
 <code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 <code><img height="48" src="https://growiz.com.br/wp-content/uploads/2020/08/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png" alt="C#"/></code>
+<code><img height="48" src="https://s3-ap-southeast-1.amazonaws.com/homepage-media/wp-content/uploads/2020/03/04092434/NET_Core_Logo.png" alt=".NET"/></code>
 <code><img height="48" src="https://cdn2.downdetector.com/static/uploads/logo/figma2.png" alt="Figma"/></code>
 <code><img height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/788px-Adobe_XD_CC_icon.svg.png" alt="Adobe XD"/></code>
 <code><img height="48" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub"/></code>
@@ -51,10 +55,10 @@
    <a href="https://github.com/rianfiore">
     <img
       align="center"
-      height="150em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianfiore&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dracula"
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianfiore&show_icons=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10&theme=dracula"
     />
-  </a><br>
+  </a><br><br>
   <a href="https://github.com/rianfiore">
     <img
       align="center"
@@ -65,7 +69,6 @@
 </p>
 </div>
   <br>
-    <br>
 
 <h2 align="center">🛠Work at:</h2>
 
