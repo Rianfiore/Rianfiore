@@ -21,6 +21,8 @@
 <code><img height="48" alt="Styled Components" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png"/></code>
 <code><img height="48" alt="SASS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/640px-Sass_Logo_Color.svg.png"/></code>
 <code><img height="48" alt="Storybook" src="https://avatars.githubusercontent.com/u/22632046?s=200&v=4"/></code>
+<code><img height="48" alt="Jest" src="https://viget.imgix.net/jest.png?auto=format%2Ccompress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&ixlib=php-2.1.1&q=90&s=882391e6854c3c621bcdc2df1c80c2e7"/></code>
+<code><img height="48" alt="Testing Library" src="https://testing-library.com/img/octopus-128x128.png"/></code>
 <code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 <code><img height="48" src="https://growiz.com.br/wp-content/uploads/2020/08/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png" alt="C#"/></code>
 <code><img height="48" src="https://s3-ap-southeast-1.amazonaws.com/homepage-media/wp-content/uploads/2020/03/04092434/NET_Core_Logo.png" alt=".NET"/></code>
