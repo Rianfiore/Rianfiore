@@ -4,7 +4,7 @@
 </div>
 
 <h2 align="center">Recent GitHub Activity ⚡</h2>
-   <a href="https://github.com/littlegudy"><img alt="Rianfiore's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rianfiore&custom_title=Rian's%20Contribution%20Graph&theme=dracula" /></a>
+   <a href="https://github.com/Rianfiore"><img alt="Rianfiore's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Rianfiore&bg_color=ffffff&color=0028f0&line=02006b&point=a9affe&area=true&hide_border=true" /></a>
     <br>
     <br>
     
